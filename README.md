@@ -7,7 +7,7 @@ I'm currently pursuing my MCA and looking to leverage my skills in C++, Data Str
 - **Data Structures & Algorithms**
 - **Tools & Technologies**: Git, GitHub, Visual Studio, VSCode
 
-###🌱 I’m currently learning
+### 🌱 I’m currently learning
 - Full Stack Development
 
 ### 📫 How to reach me
